@@ -20,3 +20,8 @@ El análisis fue desarrollado en **Python**, utilizando el stack científico est
 * **Pandas**: Limpieza y manipulación de series temporales.
 * **Matplotlib & Seaborn**: Generación de visualizaciones estadísticas de alta resolución (300 DPI).
 * **NumPy**: Operaciones vectorizadas para el cálculo de métricas.
+
+## Visualizaciones 
+![¿A más riqueza, más energía renovable?](¿A más riqueza, más energía renovable?.png)
+![Adopción de Energías Renovables por País (Per Cápita)](Adopción de Energías Renovables por País (Per Cápita).png)
+![Porcentaje de Energía Renovable en el Consumo Total (Año más reciente)](Porcentaje de Energía Renovable en el Consumo Total (Año más reciente).png)
