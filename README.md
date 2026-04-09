@@ -22,6 +22,6 @@ El análisis fue desarrollado en **Python**, utilizando el stack científico est
 * **NumPy**: Operaciones vectorizadas para el cálculo de métricas.
 
 ## Visualizaciones 
-![¿A más riqueza, más energía renovable?](¿A más riqueza, más energía renovable?.png)
+![¿A más riqueza, más energía renovable?](¿A_más_riqueza_,_más_energía_renovable?.png)
 ![Adopción de Energías Renovables por País (Per Cápita)](Adopción de Energías Renovables por País (Per Cápita).png)
 ![Porcentaje de Energía Renovable en el Consumo Total (Año más reciente)](Porcentaje de Energía Renovable en el Consumo Total (Año más reciente).png)
